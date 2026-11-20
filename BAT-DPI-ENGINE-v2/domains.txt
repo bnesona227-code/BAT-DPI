@@ -1,0 +1,29 @@
+# Список доменов для принудительной SNI-десинхронизации (YouTube, медиа-серверы, AI-платформы, мессенджеры)
+# Можно добавлять любые свои домены с новой строки
+
+# YouTube & Google Video CDN
+youtube.com
+googlevideo.com
+ytimg.com
+ggpht.com
+youtu.be
+googleapis.com
+
+# Messengers & Communities
+telegram.org
+t.me
+tdesktop.com
+discord.com
+discordapp.com
+discord.gg
+
+# AI Platforms & Developer Tools
+openai.com
+chatgpt.com
+anthropic.com
+claude.ai
+gemini.google.com
+aistudio.google.com
+midjourney.com
+huggingface.co
+github.com
